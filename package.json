@@ -1,0 +1,23 @@
+{
+  "name": "javascript-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start: "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molsenmolsen/javascriptTest.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molsenmolsen/javascriptTest/issues"
+  },
+  "homepage": "https://github.com/molsenmolsen/javascriptTest#readme"
+}
