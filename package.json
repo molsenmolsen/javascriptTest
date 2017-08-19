@@ -4,7 +4,7 @@
   "description": "test",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "sudo http-server -p 80",
     "test": "test"
   },
   "repository": {
