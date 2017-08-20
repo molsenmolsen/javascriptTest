@@ -1,0 +1,11 @@
+clone this repo - then all you need to do is install nodejs (with npm) 
+
+>npm init 
+to set up the node modules required
+>gulp 
+to run the transpile, bundle and watch 
+>npm start 
+to run the http-server on port 80
+
+Boom
+
