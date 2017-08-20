@@ -4,7 +4,7 @@
   "description": "test",
   "main": "index.js",
   "scripts": {
-    "start": "sudo http-server -p 80",
+    "start": "sudo node_modules/http-server/bin/http-server -p 80",
     "test": "test"
   },
   "repository": {
@@ -24,6 +24,7 @@
     "browserify": "^14.4.0",
     "gulp": "^3.9.1",
     "gulp-typescript": "^3.2.1",
+    "http-server": "^0.10.0",
     "tsify": "^3.0.1",
     "typescript": "^2.4.2",
     "vinyl-source-stream": "^1.1.0"
