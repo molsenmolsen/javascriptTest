@@ -1,5 +1,7 @@
 clone this repo - then all you need to do is install nodejs (with npm) 
-
+curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+sudo apt-get install -y nodejs 
+sudo apt-get install -y build-essential
 >npm init 
 to set up the node modules required
 >gulp 
